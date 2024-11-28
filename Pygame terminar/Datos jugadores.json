@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "lola",
+        "puntaje": 75,
+        "fecha": "26/11/2024"
+    },
+    {
+        "nombre": "lola",
+        "puntaje": 300,
+        "fecha": "26/11/2024"
+    },
+    {
+        "nombre": "tizi",
+        "puntaje": 175,
+        "fecha": "26/11/2024"
+    },
+    {
+        "nombre": "morena",
+        "puntaje": 25,
+        "fecha": "27/11/2024"
+    },
+    {
+        "nombre": "PAULA",
+        "puntaje": 75,
+        "fecha": "28/11/2024"
+    }
+]
